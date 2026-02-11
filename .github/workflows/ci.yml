@@ -13,4 +13,7 @@ jobs:
         - run: echo "Pipeline executed successfully!"
 
 
+        - run: npm install
+
+
         
